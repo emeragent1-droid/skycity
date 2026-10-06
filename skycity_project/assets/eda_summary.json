@@ -1,0 +1,14 @@
+{
+  "n_restaurants":1696,
+  "avg_total_net_profit":4638.15,
+  "median_total_net_profit":4932.86,
+  "avg_net_profit_per_order":4.07,
+  "avg_commission_rate":0.3003,
+  "avg_aggregator_share":0.752,
+  "corr_commission_vs_ue_margin":-0.119,
+  "corr_aggregator_share_vs_profit":-0.254,
+  "corr_sd_share_vs_profit":0.254,
+  "best_segment_by_profit":"Ghost Kitchen",
+  "best_subregion_by_profit":"West Auckland",
+  "best_cuisine_by_profit":"Pizza"
+}
